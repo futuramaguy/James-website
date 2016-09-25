@@ -1,0 +1,42 @@
+img {
+  width: 900.;
+  border: 60;
+  border-style: solid;
+  border-color: green;
+}
+
+p { 
+  color: red;
+font: 40;
+} 
+.home {
+  color: blue;
+}
+.home:hover {
+  color:green;
+}
+
+h1 {
+  font-size: 1000%
+}
+#class {
+  width: 700
+}
+#kick {
+  width: 500
+}
+#york {
+  width:600
+}
+#fun {
+  width:90
+} 
+#all {
+  background-image: url(https://a2ua.com/cosmos/cosmos-002.jpg);
+}
+#that {
+  width: 700
+}
+#they {
+  font-size: 500
+}
